@@ -19,4 +19,15 @@ public class GitHub {
 
 	}
 
+	private void nas() {
+	System.out.println("nas native is elg");
+	}
+	
+	private void zia() {
+		System.out.println("zia native is US");
+
+	}
+	
 }
+
+
